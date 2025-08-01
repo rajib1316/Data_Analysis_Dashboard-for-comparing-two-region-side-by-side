@@ -1,9 +1,16 @@
 # Data_Analysis_Dashboard-for-comparing-two-region-side-by-side
 
-This project is designed to help
-create a dashboard to visualize the sales
-comparison between two selected regions.
-•
-In order to increase sales, the organization can take preventive measures using
-dashboards.
-Project Outcome
+Objective:
+To compare sales performance across two user-selected regions over time, across products, customer segments, and other relevant dimensions.
+
+Partition the dashboard to show key sales metrics for:
+
+Primary Region
+
+Secondary Region
+
+on the basis of 
+First Order Date,Total Sales,Average Sales per Order,No. of Customers,No. of Orders,No. of Products in Sale
+
+
+

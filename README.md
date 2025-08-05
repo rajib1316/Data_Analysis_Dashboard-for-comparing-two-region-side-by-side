@@ -1,9 +1,7 @@
 # Data_Analysis_Dashboard-for-comparing-two-region-side-by-side
 
 Objective:
-To compare sales performance across two user-selected regions over time
-
-Partition the dashboard to show key sales metrics for:
+To compare sales performance across two user-selected regions over time and dashboard to show key sales metrics for:
 
 Primary Region
 
